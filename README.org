@@ -1,0 +1,1 @@
+* Testing opensearch performance for indexes having 10M documents with nested types
